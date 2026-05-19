@@ -1,12 +1,10 @@
-# Usama Abid - Data Analyst & Educator
+# Uche Amaefule- Data Analyst 
 ## About
-Hi, I’m Usama! I’m a freelance data analyst and a Super Tutor on Preply, where I teach Python and data analysis tools to students worldwide. I have a strong passion for working with data, solving problems, and helping others develop the skills needed to succeed in data analytics.
+Data Analyst with hands-on experience turning raw data into actionable insights through analysis, visualization, and dashboards. Proficient in Python, SQL, Power BI, Tableau, and Excel, with a strong foundation in data analytics techniques and end-to-end project execution.
 
-Currently, I am pursuing an RQF Level 6 Diploma in Artificial Intelligence Operations from Alnafi (EduQual). This program is helping me expand my knowledge in AI, automation, devops and advanced data analysis techniques.
+Experienced in building data pipelines, crafting interactive dashboards, and applying analytical methods to solve real-world business problems. Adept at clearly communicating findings to technical and non-technical audiences.
 
-With experience in Python, SQL, Power BI, and Excel, I enjoy working on real-world data projects and turning raw data into meaningful insights. My teaching approach is practical and hands-on, focusing on making complex topics easier to understand.
-
-When I’m not analyzing data or teaching, I like exploring new technologies, improving my coding skills, and working on personal projects.
+Passionate about continuous growth in data science and emerging analytics technologies, consistently applying new skills through portfolio projects that demonstrate both technical depth and practical impact
 
 My CV in [pdf](https://github.com/usamaabidai/Data-Analysis-Portfolio/blob/main/usama's-resume.pdf).
 
